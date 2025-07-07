@@ -1,0 +1,94 @@
+
+  .custom_made {
+    background-color: #7593d4;
+    padding: 10px;
+    border-radius: 18px;
+    width: fit-content;
+    margin: 20px;
+    text-align: center;
+  }
+
+  .custom_made_3 {
+    font-family: Afacad, monospace;
+    text-align: center;
+  }
+
+  .custom_made_4 {
+    font-family: Afacad, monospace;
+    color: #5888f1;
+    font-weight: bold;
+  }
+
+  .custom_emphasize {
+    color: #5888f1;
+    font-style: italic;
+  }
+
+  .custom_font_text {
+    font-family: Afacad, monospace;
+  }
+  
+  .function_label {
+    font-family: Afacad, monospace;
+    font-size: xx-large;
+    background-color: #769cee;
+    outline-style: solid;
+    outline-width: 2px;
+    outline-offset: 2px;
+  }
+
+  .uyarı {
+    display: inline-block;
+    background-color: #b15353;
+    padding: 10px;
+    border-radius: 9px;
+    width: fit-content;
+    margin: 20px;
+    text-align: center;
+    font-size: larger;
+  }
+
+  .post-card {
+    max-width: 450px;
+    border: 3px solid #5888f1;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    background-color: #ffffff;
+    margin: 10px;
+  }
+
+  .post-card-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .post-card-content {
+    padding: 15px;
+  }
+
+  .post-card-title {
+    font-family: Afacad, monospace;
+    margin: 0 0 10px;
+    color: #000000;
+  }
+
+  .post-card-description {
+    font-size: 1em;
+    font-family: Afacad, monospace;
+    color: #666;
+    margin: 0 0 15px;
+  }
+
+  .post-card:hover {
+    transform: translateY(-10px);
+  }
+
+  .post-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 60px;
+    padding: 10px;
+  }
