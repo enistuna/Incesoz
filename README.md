@@ -10,7 +10,7 @@
 
 ---
 
-***IMPORTANT: To make sure code runs without any problems, download the addtional dataset listed below and add it to "resources" folder.***
+***IMPORTANT: To make sure the code runs without any problems, download the dataset listed below and add it to "resources" folder before running the code on your local computer.***
 
 * **Additional Dataset:** https://www.kaggle.com/datasets/enistuna/incesz-v1-0-project-additional-file/data
 * **LinkedIn:** https://www.linkedin.com/in/enistuna/
