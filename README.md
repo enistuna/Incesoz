@@ -1,6 +1,6 @@
 <h1>İncesöz v1.0</h1>
 
-***İncesöz*** is an excellent website for anyone who wants to analyze the Turkish language. With new sleek website design and methods to retrieve information from, it’s a perfect fit for your studies. This project is made using *Python* and *Flask*. Website layout and some logos are shared down below.
+**İncesöz** is an excellent website for anyone who wants to analyze the Turkish language. With its new, sleek design and methods for retrieving information, it’s a perfect fit for your language studies. This project was planned, designed, coded, and published in *August 2024* by yours truly. At first, İncesöz v1.0 was hosted using PythonAnywhere's "Hacker" subscription plan, under the `www.incesöz.site` domain. However, it is no longer being hosted on the web. The website's main page layout and official logos are shown below. Feel free to check it out :)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-***IMPORTANT: To make sure the code runs without any problems, download the dataset listed below and add it to "/resources" folder before running the code on your local machine.***
+***IMPORTANT: To make sure the code runs without any problems, download the dataset listed below and add it to the "/resources" folder before running the code on your local machine.***
 
 * **Additional Dataset:** https://www.kaggle.com/datasets/enistuna/incesz-v1-0-project-additional-file/data
 * **LinkedIn:** https://www.linkedin.com/in/enistuna/
