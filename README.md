@@ -12,7 +12,8 @@ This project was planned, designed, coded, and published in *August 2024* by you
 
 ---
 
-***IMPORTANT: To make sure the code runs without any problems, download the dataset listed below and add it to the "/resources" folder before running the code on your local machine.***
+**<h1>Important!</h1>** 
+  To make sure the code runs without any problems, download the dataset listed below and add it to the "/resources" folder before running the code on your local machine.
 
 * **Additional Dataset:** https://www.kaggle.com/datasets/enistuna/incesz-v1-0-project-additional-file/data
 * **LinkedIn:** https://www.linkedin.com/in/enistuna/
