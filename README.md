@@ -13,8 +13,9 @@ This project was planned, designed, coded, and published in *August 2024* by you
 ---
 
 **<h1>Important!</h1>** 
-  To make sure the code runs without any problems, download the dataset listed below and add it to the "/resources" folder before running the code on your local machine.
+  To make sure the code runs without any problems, download the additional dataset and CSS file listed below and add the dataset to the "/resources" and add the CSS file to the "/static" folder before running the code on your local machine.
 
 * **Additional Dataset:** https://www.kaggle.com/datasets/enistuna/incesz-v1-0-project-additional-file/data
+* ""CSS File:"" https://drive.google.com/file/d/1zhu9xhO3D2R8q2XHvulAJpvsIN3m9P2B/view?usp=sharing
 * **LinkedIn:** https://www.linkedin.com/in/enistuna/
 * **Contact Information:** enissstuna@gmail.com
