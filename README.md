@@ -23,8 +23,7 @@ Special thanks to **Özgün Koşaner** for Phonology advisory and **Taner Sezer*
 <details>
   <summary><h2>Website Layout</h2></summary>
   
-  <img src="https://github.com/user-attachments/assets/
-a3fa517d-e455-4565-913f-f61e144b4d3a">
+  <img src="https://github.com/user-attachments/assets/a3fa517d-e455-4565-913f-f61e144b4d3a">
      
 </details>
 
