@@ -6,13 +6,13 @@
 
 **İncesöz** is an excellent tool for anyone who wants to analyze the Turkish language. With its new, sleek design and methods for retrieving information, it’s a perfect fit for your Turkish linguistics studies. 
 
-* İncesöz leverages many tools, datasets and resources that was gathered from open-source outlets that was made spesificly for Turkish, while it also includes new functionalities and methods that was prepared by **Enis Tuna** for this project. Namely, Rhyme Generator and Phonetic Transcriptor. [Phonetic Transcriptor](https://github.com/enistuna/inceses_turkish_phonetic_transcriptor) is also available as a Python package if you want to directly use it in your Python scripts.
-* This project was first conceptitulized in 2023 and the first demo of it was released the same year. Then it was elaborated to be a fully-functioning website in 2024. At first, the project was being hosted on the internet but later was taken down. But you can still access the full website by this Github repository.
+* İncesöz leverages many tools, datasets, and resources that were gathered from open-source outlets made specifically for Turkish, and it also includes new functionalities and methods that were prepared by **Enis Tuna** for this project: namely, the Rhyme Generator and Phonetic Transcriptor. [Phonetic Transcriptor](https://github.com/enistuna/inceses_turkish_phonetic_transcriptor) is also available as a Python package if you want to use it directly in your Python scripts.
+* This project was first conceptualized in 2023, and the first demo was released the same year. It was then developed into a fully-functioning website in 2024. The project was initially hosted online but was later taken down. However, you can still access the full website through this GitHub repository.
 
-Special thanks to **Özgün Koşaner** for Phonology advisory and **Taner Sezer** for helping out with publishing the Phonetic Transcriptor at [Turkish Data Depository (TDD)](https://tools.tdd.ai)
+Special thanks to **Özgün Koşaner** for his phonology advisory and to **Taner Sezer** for his help in publishing the Phonetic Transcriptor at the [Turkish Data Depository (TDD)](https://tools.tdd.ai).
 
 
-**<h2>Functionalities</h2>** 
+**<h2>Features</h2>** 
 * Phonological Analysis
 * Morphological Analysis
 * Sentiment Analysis
