@@ -1,4 +1,9 @@
+<a href="https://www.linkedin.com/in/enistuna/"> 
 <img width="500" height="100" alt="version_3" src="https://github.com/user-attachments/assets/e50fb9f6-a07a-491a-8f67-6f7783cce340" />
+</a>
+<a href="https://www.linkedin.com/in/enistuna/"> 
+<img src="code\static\images\small_logo_ver2_(ORGN).png" height=150>
+</a>
 
 ---
 
@@ -29,9 +34,12 @@ Special thanks to **Özgün Koşaner** for his phonology advisory and to **Taner
 
 
 <summary><h2>Website Layout</h2></summary>
-  <img src="https://github.com/user-attachments/assets/a3fa517d-e455-4565-913f-f61e144b4d3a">
+  <a href="https://www.linkedin.com/in/enistuna/"> <img src="https://github.com/user-attachments/assets/a3fa517d-e455-4565-913f-f61e144b4d3a">
+  </a>
      
 
 <h2>Disclosure</h2>
 
 This project uses the works of [Emre Sevinç](https://github.com/emres)'s [turkish-deasciifier](https://github.com/emres/turkish-deasciifier) and [Esat Mahmut Bayol](https://github.com/brolin59)'s [trnlp](https://github.com/brolin59/trnlp). For more information, feel free to check out those projects.
+
+
