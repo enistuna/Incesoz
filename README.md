@@ -20,18 +20,19 @@ Special thanks to **Özgün Koşaner** for his phonology advisory and to **Taner
 * Rhyme Generator
 
 
-<details>
-  <summary><h2>Website Layout</h2></summary>
-  
-  <img src="https://github.com/user-attachments/assets/a3fa517d-e455-4565-913f-f61e144b4d3a">
-     
-</details>
-
 
 **<h1>Important!</h1>** 
   To make sure the code runs without any problems, download the additional dataset and CSS file listed below and add the dataset to the "/resources" and add the CSS file to the "/static" folder before running the code on your local machine.
 
 * **Additional Dataset:** https://www.kaggle.com/datasets/enistuna/incesz-v1-0-project-additional-file/data
 * **CSS File:** https://drive.google.com/file/d/1zhu9xhO3D2R8q2XHvulAJpvsIN3m9P2B/view?usp=sharing
-* **LinkedIn:** https://www.linkedin.com/in/enistuna/
-* **Contact Information:** enissstuna@gmail.com
+
+
+<summary><h2>Website Layout</h2></summary>
+  <img src="https://github.com/user-attachments/assets/
+a3fa517d-e455-4565-913f-f61e144b4d3a">
+     
+
+<h2>Disclosure</h2>
+
+This project uses the works of [Emre Sevinç](https://github.com/emres)'s [turkish-deasciifier](https://github.com/emres/turkish-deasciifier) and [Esat Mahmut Bayol](https://github.com/brolin59)'s [trnlp](https://github.com/brolin59/trnlp). For more information, feel free to check out those projects.
