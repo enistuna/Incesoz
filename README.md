@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/enistuna/"> 
-  <img width="750" height="150" alt="main_logo" src="https://github.com/user-attachments/assets/e50fb9f6-a07a-491a-8f67-6f7783cce340" />
+  <img width="1280" height="250" alt="version_4" src="https://github.com/user-attachments/assets/8a28bdae-640d-4d4b-8f01-bab501fdc8c2" />
 </a>
 
 **<h1>İncesöz - Turkish Linguistic Analyzer</h1>** 
